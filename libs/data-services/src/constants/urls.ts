@@ -4,7 +4,8 @@ export const ADMIN_API = {
   },
 };
 
-const BASE_CLIENT_URL = 'https://sjfl-dev-webapp.azurewebsites.net/user';
+const BASE_CLIENT_URL =
+  'https://sjflappdev-fmbahreqhjb9erh5.centralindia-01.azurewebsites.net/user';
 
 export const CLIENT_API = {
   user: {
